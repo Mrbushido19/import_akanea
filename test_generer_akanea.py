@@ -24,16 +24,28 @@ def connect_to_remote_desktop():
     time.sleep(5)
     key.write(os.getenv('PASSWORD'))
     pyautogui.press('enter')
-
-def open_akanea():
-    """Ouvre l'application Akanea"""
     pyautogui.moveTo(1013, 497, duration=1)
     pyautogui.click()
     time.sleep(10)
 
+def wait_for_image(image_path, timeout=30):
+    """Attend que l'image soit détectée sur l'écran"""
+    start_time = time.time()
+    while time.time() - start_time < timeout:
+        try:
+            location = pyautogui.locateOnScreen(image_path)
+            if location:
+                return True
+        except pyautogui.ImageNotFoundException:   
+            return True
+        time.sleep(1)
+    return False
+
+def open_akanea():
+    """Ouvre l'application Akanea"""
     pyautogui.moveTo(74, 1061, duration=1)
     pyautogui.click()
-    pyautogui.write("Akanea tms", interval=0.1)
+    pyautogui.write("akanea tms", interval=0.1)
     pyautogui.press("enter")
     pyautogui.moveTo(1034, 550, duration=1)
     time.sleep(2)
@@ -49,7 +61,7 @@ def login_akanea():
     key.write(os.getenv('MDP_AKANEA'))
     pyautogui.moveTo(905, 649, duration=1)
     pyautogui.click()
-    time.sleep(75)
+    time.sleep(35)
 
 def navigate_to_facturation():
     """Navigue vers la section facturation"""
@@ -63,6 +75,7 @@ def navigate_to_facturation():
     time.sleep(3)
     pyautogui.moveTo(612,558, duration=1)
     pyautogui.click()
+    time.sleep(10)
 
 def generate_factures():
     """Génère les factures pour la période spécifiée"""
@@ -76,22 +89,31 @@ def generate_factures():
     key.write("01012025")
     
     pyautogui.moveTo(650, 366, duration=1)
-    pyautogui.click()
+    # pyautogui.click()
     pyautogui.moveTo(569, 401, duration=1)
-    pyautogui.click()
+    # pyautogui.click()
     pyautogui.moveTo(562, 477, duration=1)
-    pyautogui.click()
+    # pyautogui.click()
     time.sleep(5)
     pyautogui.moveTo(927, 447, duration=1)
-    pyautogui.click()
+    # pyautogui.click()
 
 def main():
     """Fonction principale qui exécute toutes les étapes"""
     connect_to_remote_desktop()
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\Bureau.PNG") == False :
+        print("L'image n'a pas été détectée dans le délai imparti")
+        return
     open_akanea()
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\AKANEA.PNG") == False : 
+        print("L'image n'a pas été détectée dans le délai imparti")
+        return
     login_akanea()
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\FACTURATION.PNG") == False : 
+        print("L'image n'a pas été détectée dans le délai imparti")
+        return
     navigate_to_facturation()
-    # generate_factures()
+    generate_factures()
 
 if __name__ == "__main__":
     main()
