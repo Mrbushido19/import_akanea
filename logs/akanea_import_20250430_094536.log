@@ -1,0 +1,9 @@
+2025-04-30 09:45:36,423 - INFO - Démarrage du processus d'import Akanea
+2025-04-30 09:45:36,423 - INFO - Début de la connexion au bureau à distance
+2025-04-30 09:45:58,215 - INFO - Connexion au bureau à distance réussie
+2025-04-30 09:45:58,215 - INFO - Ouverture de l'application Akanea
+2025-04-30 09:46:29,065 - INFO - Application Akanea ouverte avec succès
+2025-04-30 09:46:29,065 - INFO - Attente de l'image d'Akanea
+2025-04-30 09:46:29,065 - INFO - Recherche de l'image: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 09:47:30,116 - WARNING - Timeout: Image non trouvée après 60 secondes: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 09:47:30,118 - ERROR - L'image d'Akanea n'a pas été détectée dans le délai imparti

@@ -1,0 +1,47 @@
+2025-04-30 09:14:18,418 - INFO - Démarrage du processus d'import Akanea
+2025-04-30 09:14:18,419 - INFO - Début de la connexion au bureau à distance
+2025-04-30 09:14:40,180 - INFO - Connexion au bureau à distance réussie
+2025-04-30 09:14:40,180 - INFO - Ouverture de l'application Akanea
+2025-04-30 09:15:11,030 - INFO - Application Akanea ouverte avec succès
+2025-04-30 09:15:11,030 - INFO - Attente de l'image d'Akanea
+2025-04-30 09:15:11,030 - INFO - Recherche de l'image: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 09:15:11,615 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:13,247 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:14,837 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:16,450 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:18,034 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:19,615 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:21,204 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:22,798 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:24,379 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:25,971 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:27,620 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:29,236 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:30,833 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:32,422 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:34,240 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:35,746 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:37,236 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:38,834 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:40,505 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:42,111 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:43,720 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:45,325 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:46,914 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:48,500 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:50,082 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:51,715 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:53,315 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:54,898 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:56,482 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:58,063 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:15:59,664 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:01,279 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:02,880 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:04,467 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:06,048 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:07,637 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:09,240 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:10,837 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:16:11,841 - WARNING - Timeout: Image non trouvée après 60 secondes: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 09:16:11,841 - ERROR - L'image d'Akanea n'a pas été détectée dans le délai imparti

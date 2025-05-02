@@ -1,0 +1,48 @@
+2025-04-30 10:15:30,292 - INFO - Démarrage du processus d'import Akanea
+2025-04-30 10:15:30,292 - INFO - Début de la connexion au bureau à distance
+2025-04-30 10:15:52,062 - INFO - Connexion au bureau à distance réussie
+2025-04-30 10:15:52,062 - INFO - Ouverture de l'application Akanea
+2025-04-30 10:16:24,910 - INFO - Application Akanea ouverte avec succès
+2025-04-30 10:16:24,910 - INFO - Attente de l'image d'Akanea
+2025-04-30 10:16:24,910 - INFO - Recherche de l'image: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 10:16:25,489 - INFO - recherche en cours
+2025-04-30 10:16:27,055 - INFO - recherche en cours
+2025-04-30 10:16:28,610 - INFO - recherche en cours
+2025-04-30 10:16:30,163 - INFO - recherche en cours
+2025-04-30 10:16:31,711 - INFO - recherche en cours
+2025-04-30 10:16:33,340 - INFO - recherche en cours
+2025-04-30 10:16:34,898 - INFO - recherche en cours
+2025-04-30 10:16:36,469 - INFO - recherche en cours
+2025-04-30 10:16:38,035 - INFO - recherche en cours
+2025-04-30 10:16:39,597 - INFO - recherche en cours
+2025-04-30 10:16:41,149 - INFO - recherche en cours
+2025-04-30 10:16:42,732 - INFO - recherche en cours
+2025-04-30 10:16:44,328 - INFO - recherche en cours
+2025-04-30 10:16:45,879 - INFO - recherche en cours
+2025-04-30 10:16:47,443 - INFO - recherche en cours
+2025-04-30 10:16:48,999 - INFO - recherche en cours
+2025-04-30 10:16:50,562 - INFO - recherche en cours
+2025-04-30 10:16:52,114 - INFO - recherche en cours
+2025-04-30 10:16:53,663 - INFO - recherche en cours
+2025-04-30 10:16:55,225 - INFO - recherche en cours
+2025-04-30 10:16:56,781 - INFO - recherche en cours
+2025-04-30 10:16:58,342 - INFO - recherche en cours
+2025-04-30 10:16:59,899 - INFO - recherche en cours
+2025-04-30 10:17:01,476 - INFO - recherche en cours
+2025-04-30 10:17:03,027 - INFO - recherche en cours
+2025-04-30 10:17:04,577 - INFO - recherche en cours
+2025-04-30 10:17:06,129 - INFO - recherche en cours
+2025-04-30 10:17:07,681 - INFO - recherche en cours
+2025-04-30 10:17:09,249 - INFO - recherche en cours
+2025-04-30 10:17:10,795 - INFO - recherche en cours
+2025-04-30 10:17:12,344 - INFO - recherche en cours
+2025-04-30 10:17:13,912 - INFO - recherche en cours
+2025-04-30 10:17:15,474 - INFO - recherche en cours
+2025-04-30 10:17:17,029 - INFO - recherche en cours
+2025-04-30 10:17:18,578 - INFO - recherche en cours
+2025-04-30 10:17:20,136 - INFO - recherche en cours
+2025-04-30 10:17:21,615 - INFO - recherche en cours
+2025-04-30 10:17:23,022 - INFO - recherche en cours
+2025-04-30 10:17:24,444 - INFO - recherche en cours
+2025-04-30 10:17:25,449 - WARNING - Timeout: Image non trouvée après 60 secondes: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 10:17:25,449 - ERROR - L'image d'Akanea n'a pas été détectée dans le délai imparti

@@ -1,0 +1,65 @@
+2025-04-30 09:09:51,634 - INFO - Démarrage du processus d'import Akanea
+2025-04-30 09:09:51,634 - INFO - Début de la connexion au bureau à distance
+2025-04-30 09:10:13,409 - INFO - Connexion au bureau à distance réussie
+2025-04-30 09:10:13,409 - INFO - Attente de l'image du bureau
+2025-04-30 09:10:13,409 - INFO - Recherche de l'image: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG
+2025-04-30 09:10:13,462 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:14,496 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:15,527 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:16,566 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:17,592 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:18,631 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:19,661 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:20,698 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:21,730 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:22,762 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:23,796 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:24,829 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:25,867 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:26,915 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:27,948 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:28,982 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:30,017 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:31,049 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:32,100 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:33,152 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:34,180 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:35,215 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:36,247 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:37,281 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:38,316 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:39,348 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:40,380 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:41,415 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:42,449 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:43,481 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:44,514 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:45,548 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:46,582 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:47,612 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:48,646 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:49,682 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:50,715 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:51,750 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:52,782 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:53,813 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:54,848 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:55,883 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:56,915 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:57,948 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:10:58,982 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:00,016 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:01,048 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:02,082 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:03,115 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:04,150 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:05,181 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:06,213 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:07,248 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:08,280 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:09,316 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:10,347 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:11,382 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:12,415 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG: The confidence keyword argument is only available if OpenCV is installed.
+2025-04-30 09:11:13,416 - WARNING - Timeout: Image non trouvée après 60 secondes: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG
+2025-04-30 09:11:13,416 - ERROR - L'image du bureau n'a pas été détectée dans le délai imparti

@@ -1,0 +1,48 @@
+2025-04-30 09:34:14,996 - INFO - Démarrage du processus d'import Akanea
+2025-04-30 09:34:14,996 - INFO - Début de la connexion au bureau à distance
+2025-04-30 09:34:36,816 - INFO - Connexion au bureau à distance réussie
+2025-04-30 09:34:36,816 - INFO - Ouverture de l'application Akanea
+2025-04-30 09:35:07,698 - INFO - Application Akanea ouverte avec succès
+2025-04-30 09:35:07,698 - INFO - Attente de l'image d'Akanea
+2025-04-30 09:35:07,698 - INFO - Recherche de l'image: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 09:35:08,314 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:09,893 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:11,480 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:13,054 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:14,601 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:16,179 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:17,741 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:19,318 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:20,869 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:22,473 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:24,061 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:25,618 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:27,236 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:28,824 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:30,450 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:32,017 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:33,573 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:35,141 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:36,725 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:38,304 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:39,877 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:41,442 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:42,999 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:44,587 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:46,182 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:47,767 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:49,386 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:50,959 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:52,525 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:54,096 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:55,659 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:57,225 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:35:58,791 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:36:00,391 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:36:01,963 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:36:03,521 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:36:05,086 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:36:06,672 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:36:08,244 - WARNING - Erreur lors de la recherche de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG: 
+2025-04-30 09:36:09,253 - WARNING - Timeout: Image non trouvée après 60 secondes: C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG
+2025-04-30 09:36:09,253 - ERROR - L'image d'Akanea n'a pas été détectée dans le délai imparti
