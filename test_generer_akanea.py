@@ -158,6 +158,9 @@ def main():
     #     print("L'image n'a pas été détectée dans le délai imparti")
     #     return
     login_akanea()
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\FACTURATION.PNG") == False : 
+        print("L'image n'a pas été détectée dans le délai imparti")
+        return
     navigate_to_facturation()
     generate_factures()
     close_akanea()
