@@ -1,0 +1,19 @@
+2025-05-06 14:16:30,313 - INFO - Début du script d'automatisation Akanea.
+2025-05-06 14:16:30,313 - INFO - Connexion au bureau distant...
+2025-05-06 14:16:52,085 - INFO - Connexion au bureau distant réussie.
+2025-05-06 14:16:52,085 - INFO - Attente de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG pendant 60 secondes.
+2025-05-06 14:16:53,407 - INFO - Image trouvée avec une confiance de 0.99
+2025-05-06 14:16:53,409 - INFO - Ouverture de l'application Akanea...
+2025-05-06 14:17:24,286 - INFO - Application Akanea ouverte.
+2025-05-06 14:17:24,286 - INFO - Attente de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\AKANEA.PNG pendant 60 secondes.
+2025-05-06 14:17:25,256 - INFO - Image trouvée avec une confiance de 1.00
+2025-05-06 14:17:25,257 - INFO - Connexion à Akanea...
+2025-05-06 14:18:12,800 - INFO - Connexion à Akanea réussie.
+2025-05-06 14:18:12,800 - INFO - Attente de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\FACTURATION.PNG pendant 60 secondes.
+2025-05-06 14:18:13,104 - INFO - Image trouvée avec une confiance de 0.98
+2025-05-06 14:18:13,105 - INFO - Navigation vers la section facturation...
+2025-05-06 14:18:56,154 - INFO - Navigation vers la facturation terminée.
+2025-05-06 14:18:56,154 - INFO - Fermeture d'Akanea...
+2025-05-06 14:18:58,682 - INFO - Attente de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG pendant 60 secondes.
+2025-05-06 14:18:59,733 - INFO - Image trouvée avec une confiance de 0.99
+2025-05-06 14:18:59,734 - INFO - Script terminé.

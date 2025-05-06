@@ -20,7 +20,10 @@ def connect_sage():
     """Se connecte à Sage avec les informations stockées dans .env"""
     logger.info("Connexion à Sage...")
     pyautogui.moveTo(936,479, duration=1)
+    time.sleep(10)
     pyautogui.click()
+    for _ in range(25):
+        pyautogui.press('backspace')
     key.write(os.getenv('SAGE_USER'))
     pyautogui.press('tab')
     key.write(os.getenv('SAGE_PASSWORD'))
@@ -44,11 +47,12 @@ def import_txt(txt_path):
     key.write(txt_path)
     pyautogui.press('enter')
     time.sleep(5)
+    pyautogui.press('enter')
+    time.sleep(5)
     logger.info("Importation réussie.")
     
 def main():
 
-    
     # Charger les variables d'environnement
     load_dotenv()
     
@@ -61,3 +65,6 @@ def main():
     # Importer le fichier texte
     txt_path = os.getenv('TXT_PATH')
     import_txt(txt_path)
+    
+if __name__ == "__main__":
+    main()

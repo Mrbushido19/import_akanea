@@ -4,6 +4,8 @@ import os
 from dotenv import load_dotenv
 import time
 from logging_config import setup_logging
+import cv2
+import numpy
 
 # Initialiser le logger
 logger = setup_logging()
@@ -39,16 +41,32 @@ def connect_to_remote_desktop():
         logger.error(f"Erreur lors de la connexion au bureau distant : {e}")
 
 def wait_for_image(image_path, timeout=60):
-    """Attend que l'image soit détectée sur l'écran"""
+    """Attend que l'image soit détectée sur l'écran en utilisant OpenCV"""
     logger.info(f"Attente de l'image {image_path} pendant {timeout} secondes.")
     start_time = time.time()
+    
+    # Charger l'image template
+    template = cv2.imread(image_path)
+    if template is None:
+        raise ValueError(f"Impossible de charger l'image {image_path}")
+    
     while time.time() - start_time < timeout:
         try:
-            location = pyautogui.locateOnScreen(image_path)
-            if location :
+            # Prendre une capture d'écran
+            screenshot = pyautogui.screenshot("img\\screenshot.png")
+            screenshot = cv2.cvtColor(numpy.array(screenshot), cv2.COLOR_RGB2BGR)
+            
+            # Faire la correspondance de template
+            result = cv2.matchTemplate(screenshot, template, cv2.TM_CCOEFF_NORMED)
+            min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
+            
+            # Si la correspondance est suffisamment bonne (seuil de 0.8)
+            if max_val >= 0.8:
+                logger.info(f"Image trouvée avec une confiance de {max_val:.2f}")
                 return True
+                
         except Exception as e:
-            logger.debug(f"Image not found yet: {e}")
+            logger.debug(f"Image non trouvée: {e}")
         time.sleep(1)
     return False
 
@@ -80,7 +98,7 @@ def login_akanea():
         key.write(os.getenv('MDP_AKANEA'))
         pyautogui.moveTo(905, 649, duration=1)
         pyautogui.click()
-        time.sleep(75)
+        time.sleep(45)
         logger.info("Connexion à Akanea réussie.")
     except Exception as e:
         logger.error(f"Erreur lors de la connexion à Akanea : {e}")
@@ -99,6 +117,7 @@ def navigate_to_facturation():
         time.sleep(3)
         pyautogui.moveTo(612,558, duration=1)
         pyautogui.click()
+        time.sleep(30)
         logger.info("Navigation vers la facturation terminée.")
     except Exception as e:
         logger.error(f"Erreur lors de la navigation vers la facturation : {e}")
@@ -125,6 +144,11 @@ def generate_factures():
         time.sleep(5)
         pyautogui.moveTo(927, 447, duration=1)
         pyautogui.click()
+        time.sleep(5)
+        pyautogui.moveTo(1162,606, duration=1)
+        pyautogui.click()
+        time.sleep(5)
+        pyautogui.screenshot("img\\facture_erreur.png", region=(0, 0, 1920, 1080))
         logger.info("Factures générées avec succès.")
     except Exception as e:
         logger.error(f"Erreur lors de la génération des factures : {e}")
@@ -148,22 +172,30 @@ def close_akanea():
 def main():
     """Fonction principale qui exécute toutes les étapes"""
     logger.info("Début du script d'automatisation Akanea.")
-    connect_to_remote_desktop()
-    # while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\Bureau.PNG") == False :
-    #     print("L'image n'a pas été détectée dans le délai imparti")
-    #     return
     
-    open_akanea()
-    # while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\AKANEA.PNG") == False : 
-    #     print("L'image n'a pas été détectée dans le délai imparti")
-    #     return
-    login_akanea()
-    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\FACTURATION.PNG") == False : 
+
+    connect_to_remote_desktop()
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\Bureau.PNG") == False :
         print("L'image n'a pas été détectée dans le délai imparti")
         return
+    open_akanea()
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\AKANEA.PNG") == False :
+        print("L'image n'a pas été détectée dans le délai imparti")
+        return
+   
+    login_akanea()
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\FACTURATION.PNG") == False :
+        print("L'image n'a pas été détectée dans le délai imparti")
+        return
+   
     navigate_to_facturation()
-    generate_factures()
+    # generate_factures()
     close_akanea()
+    
+    while wait_for_image("C:\\Users\\acoulibaly\\Desktop\\import_akanea\\valid_img\\Bureau.PNG") == False :
+        print("L'image n'a pas été détectée dans le délai imparti")
+        return
+
     logger.info("Script terminé.")
 
 if __name__ == "__main__":
