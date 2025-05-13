@@ -1,0 +1,6 @@
+USE [CENTAURES]
+GO
+
+DELETE FROM [dbo].[cbUserSession]
+      
+GO

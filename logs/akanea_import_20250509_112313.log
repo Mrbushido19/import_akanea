@@ -1,0 +1,6 @@
+2025-05-09 11:23:13,897 - INFO - Début du script d'automatisation Akanea.
+2025-05-09 11:23:13,898 - INFO - Connexion au bureau distant...
+2025-05-09 11:23:35,709 - INFO - Connexion au bureau distant réussie.
+2025-05-09 11:23:35,709 - INFO - Attente de l'image C:\Users\acoulibaly\Desktop\import_akanea\valid_img\Bureau.PNG pendant 60 secondes.
+2025-05-09 11:23:36,474 - INFO - Image trouvée avec une confiance de 0.94
+2025-05-09 11:23:36,476 - INFO - Ouverture de l'application Akanea...

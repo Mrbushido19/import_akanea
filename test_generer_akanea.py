@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import time
 from logging_config import setup_logging
 import cv2
-import numpy
+import numpy 
 
 # Initialiser le logger
 logger = setup_logging()
@@ -77,6 +77,7 @@ def open_akanea():
         
         pyautogui.moveTo(74, 1061, duration=1)
         pyautogui.click()
+        time.sleep(2)
         pyautogui.write("Akanea tms", interval=0.1)
         pyautogui.press("enter")
         pyautogui.moveTo(1034, 550, duration=1)
